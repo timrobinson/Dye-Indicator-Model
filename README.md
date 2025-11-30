@@ -17,4 +17,4 @@ The critical attributes, specifically the spectra at the conjugated extremes and
     <img width="90%" src="https://github.com/timrobinson/Dye-Indicator-Model/blob/main/dye_attributes.png"> 
 </p>
 <br>
-
+where the dashed vertical lines on the right graph bound the physiological pH range.

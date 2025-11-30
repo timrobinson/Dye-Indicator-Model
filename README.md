@@ -3,3 +3,7 @@ Acid–base dye indicators exist as two pH-dependent conjugated forms, and their
 
 
 ![plot](https://github.com/timrobinson/Dye-Indicator-Model/blob/main/structure.png)
+
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/timrobinson/Dye-Indicator-Model/blob/main/structure.png"> 
+</p>

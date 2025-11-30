@@ -29,3 +29,13 @@ where the dashed vertical lines on the right graph bound the physiological pH ra
 </p>
 <br>
 where the bold lines represent the spectra within the physiological pH range.  These spectra represent a single component in the model of the imaging system used to quantify pH.
+
+## Repository Guide
+
+- Installation: how to set up the environment (environment.yml)
+- Dependencies summary: quick human‑readable list of major libraries
+- Usage: how to run the .ipynb or scripts with sample commands
+- Outputs: what plots or data files are generated
+- Repo structure: what each file/folder contains
+- Citation/License: how to cite the repo in academic work
+

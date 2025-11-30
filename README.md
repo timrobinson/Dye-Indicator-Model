@@ -7,10 +7,8 @@ Acid–base dye indicators exist as two pH-dependent conjugated forms, and their
 <br>
 The model would then be:
 
-
+### Absorption Spectrum Equation
 
 <p align="center">
-  \[
-  A_{\mathrm{meas}}(\lambda) \;=\; A_{\mathrm{H^+}}(\lambda) \;+\; A_{\mathrm{OH^-}}(\lambda)
-  \]
+  <img src="https://latex.codecogs.com/svg.latex?\Large%20A_{\mathrm{meas}}(\lambda)=A_{\mathrm{H^+}}(\lambda)+A_{\mathrm{OH^-}}(\lambda)" alt="Absorption Equation"/>
 </p>

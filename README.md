@@ -32,10 +32,54 @@ where the bold lines represent the spectra within the physiological pH range.  T
 
 ## Repository Guide
 
-- Installation: how to set up the environment (environment.yml)
-- Dependencies summary: quick human‑readable list of major libraries
-- Usage: how to run the .ipynb or scripts with sample commands
-- Outputs: what plots or data files are generated
-- Repo structure: what each file/folder contains
-- Citation/License: how to cite the repo in academic work
+### 🔧 Installation Guide
+
+Follow these steps to set up the environment and run the code:
+
+1. **Create a working folder** on your local machine and move into it:
+
+mkdir Projects
+cd Projects
+
+2. **Obtain the repository**
+
+git clone https://github.com/timrobinson/Dye-Indicator-Model.git
+cd Dye-Indicator-Model
+
+3. **Create the conda environment**
+
+conda env create -f environment.yml
+
+4. **Activate the environment**
+
+conda activate dye-indicator-model
+
+> **Note on names:**  
+> The repository folder name (`Dye-Indicator-Model`) is created when you clone or unzip the project.  
+> The conda environment name (`dye-indicator-model`) comes from the `environment.yml` file.  
+> These names are independent: use the folder name when navigating with `cd`, and use the environment name when activating with `conda activate`.
+
+## 📦 Dependencies
+
+This project uses a conda environment defined in `environment.yml`.  
+Key dependencies include:
+
+- **Python** (version specified in `environment.yml`)
+- **NumPy** – numerical computing
+- **Pandas** – data manipulation and analysis
+- **Matplotlib** – plotting and visualization
+- **SciPy** – scientific computing
+- **Jupyter** – interactive notebooks
+
+## ▶️ Usage
+
+Once the environment is active and you are inside the repository folder (`Dye-Indicator-Model`):
+
+**Launch Jupyter Notebook** (requires Jupyter installed):
+
+jupyter notebook
+  
+- Navigate to the notebook file (e.g., filename.ipynb) in the browser interface.
+- Open and run cells interactively.
+
 

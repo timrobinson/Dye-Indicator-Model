@@ -33,7 +33,7 @@ where the bold lines represent the spectra within the physiological pH range.  T
 
 Follow these steps to set up the environment and run the code:
 
-1. **Create a working folder** on your local machine and move into it:
+1. **Create a working folder** on your local machine and move into it (I am calling it Dye-Indicator-Model):
 
 > mkdir Projects
 
